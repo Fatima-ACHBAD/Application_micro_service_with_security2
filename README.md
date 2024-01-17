@@ -68,5 +68,41 @@
 
 -Specifier uri de direction
 ![specifieruride_direction_6](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security/assets/100408189/01c59348-5617-4422-8803-8ab29171a26d)
+-création de projet en github
+![createprojetingithub1](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/ec43dec6-8795-4581-a09c-2ac3b232a14b)
+-Résumer des informations 
+![summariesgithub2](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/53643285-1841-42ef-9c32-ff8912fe4e98)
+-Ajout de la config de github dans application_properties
+![summariesgithub_and_addin_application_properties3](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/0d9161a8-90a3-4a74-b6b5-dbbbb5494ed2)
+--Ajout de la config de Keycklock dans application_properties
+![configuration_Keycklock_test_projet_inINTELLIJ4](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/6c6cc0b6-361d-4f27-bd94-a28616670ff1)
+-tester de token dans jwt
+![test_in_jwt_token5](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/8f78513f-8edd-43fe-9d04-cae7fca1233a)
+-Lancer l'application : 3mode de connexion valide :
+![application_runner_6](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/8f315861-c61f-415a-b2a5-a31768c92345)
+-Se connecter dans l'application avec github
+![application_runner__in_github7](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/4f7f8808-d9c1-4daf-b793-3c7e74b8e93e)
+-Se connecter dans l'application avec google
+
+![application_runner__in_google8](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/a74fdf99-1d53-4516-8765-3596b3164113)
+
+-Se connecter dans l'application avec keycklock
+![application_runner__in_keycklock11111](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/ce895a11-7aad-4733-bb54-f2fd086f5b19)
+
+-Configuration keycloak scope
+![keycklockscop1](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/ea524798-aa5a-4f29-95e4-97de8980bf2a)
+- Configuration realm role et ajour de id token 
+![user_realm_role_to_on_id_token2](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/0ed7a9f9-05c9-4d3f-a6ab-04836872eec8)
+- User interface : Customers 
+![application_UI_3_customers](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/33f65087-0da0-454f-b21a-05ce36adf82f)
+- User interface : user2 et je me déconnecte  
+![application_UI_4_logout_user2](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/23ad7ca7-4e13-4403-8317-26cad499b3d9)
+- User interface : après logout automatiquement on est connecté comme anonymous user  
+![application_UI_5_logout_anonymousUser](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/2868e72e-b5f3-4736-8a29-02eb1e32d3be)
+- User interface : Compte github FATIMA_ACHBAD qui s'affiche 
+  ![application_UI_6_logout_cpt_github_fatima_achbad](https://github.com/Fatima-ACHBAD/Application_micro_service_with_security2/assets/100408189/1446fc8a-eda7-414f-bfa8-0a21dcf195cc)
 
 </details>
+
+
+
